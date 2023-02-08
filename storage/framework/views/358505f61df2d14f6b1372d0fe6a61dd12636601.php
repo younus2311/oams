@@ -1,0 +1,1 @@
+<h1>404 -Page is Expired!</h1><?php /**PATH C:\xampp\htdocs\OAMS\resources\views/404.blade.php ENDPATH**/ ?>
